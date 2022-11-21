@@ -4,4 +4,7 @@ Slides and example code on the training Angular + TypeScript, Global Knowledge, 
 ## Links
 - Repository with example code: https://github.com/PeterKassenaar/voorbeeldenAngular2
 - Please study the blogs and sites mentioned in the various presentations!
-- ...
+
+## Day 1:
+- JavaScript multidimensional Arrays: https://www.javascripttutorial.net/javascript-multidimensional-array/
+- 
