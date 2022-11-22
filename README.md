@@ -7,4 +7,6 @@ Slides and example code on the training Angular + TypeScript, Global Knowledge, 
 
 ## Day 1:
 - JavaScript multidimensional Arrays: https://www.javascripttutorial.net/javascript-multidimensional-array/
-- 
+
+## Evaluatie
+- Gebruik deze link voor evaluatie: https://globalknowledge.az1.qualtrics.com/jfe/form/SV_2l9xxtKvLOyJCKN?EVENTID=NL209369 
